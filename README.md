@@ -17,6 +17,10 @@ My spring boot retail rewards application
 * IDE (IntelliJ community edition)
 * Postman (or other API platform)
 
+## Data Set
+
+* Data is inserted into H2 DB based on the insert query provided in the data.sql file
+
 ## API Endpoints
 
 * GET /api/rewards - Gets the list of customers, rewards points earned per each month and total reward points earned.
